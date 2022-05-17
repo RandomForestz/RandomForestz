@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RandomForestz
 - 🌱 I’m a Ph.D. Student of Forest Sciences at Colorado State University.
 -  I’m interested in Forest Ecology, Conservation, and Landscape Ecology.
--  I'm all about R.
+-  R & Google Earth Engine.
 
 
 
