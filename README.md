@@ -7,9 +7,9 @@ My name is Josh Carrell and I'm a Forest Landscape Ecologist. I'm a PhD student 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png)
-![](https://github.com/RandomForestz/RandomForestz/blob/main/logo-project-r-icon-r-programming-logo-text-alphabet-symbol-trademark-transparent-png-2975223.png)
-![](https://github.com/RandomForestz/RandomForestz/blob/main/arcgis-pro.png)
+ - R Programming
+ - Google Earth Engine
+ - ArcGIS Pro
 
 ## &#x270d; Blog & Writing
 
