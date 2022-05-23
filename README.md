@@ -1,6 +1,6 @@
 ![Header](https://github.com/RandomForestz/RandomForestz/blob/main/readme_header.jpg)
 
-# Hello, Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/d67becae2da0f810f63ec8309a5f3f3f.gif" width="50px">
+# Hello Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/d67becae2da0f810f63ec8309a5f3f3f.gif" width="50px">
 
 My name is Josh Carrell and I'm a Forest Landscape Ecologist. 
 
