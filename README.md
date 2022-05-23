@@ -1,6 +1,6 @@
 ![Header](https://github.com/RandomForestz/RandomForestz/blob/main/readme_header.jpg)
 
-# Hello, Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/mountain-cat.gif" width="30px">
+# Hello, Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/d67becae2da0f810f63ec8309a5f3f3f.gif" width="50px">
 
 My name is Josh Carrell and I'm a Forest Landscape Ecologist. I'm a PhD student at Colorado State University studying Forest Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
