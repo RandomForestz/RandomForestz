@@ -8,7 +8,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
  - R Programming
- - Google Earth Engine <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">
+ <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px"> Google Earth Engine 
  - ArcGIS Pro
 
 ## &#x270d; Blog & Writing
