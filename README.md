@@ -1,8 +1,6 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 ![Header](https://github.com/RandomForestz/RandomForestz/blob/main/readme_header.jpg)
 
-# Hello, Friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/mountain-cat.gif" width="30px">
 
 My name is Josh Carrell and I'm a Forest Landscape Ecologist. I'm a PhD student at Colorado State University studying Forest Science. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
