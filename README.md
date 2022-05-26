@@ -6,7 +6,7 @@
 - I'm a PhD student at Colorado State University studying Forest Science. 
 - I'm really interested in using spatial and statistical tools to understand how plants and plant communities respond to disturbance. 
 
-You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter]][1] or on [![LinkedIn]][3].
 
 ## 🔧 Technologies & Tools
  - R Programming
@@ -36,10 +36,6 @@ A sample of my recent articles:
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
-
-[1.2]: https://imgur.com/gallery/kgZriRn (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://imgur.com/gallery/OQUXwNp (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
