@@ -10,8 +10,11 @@ You can find me on [Twitter][1] or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
 <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">  
+
  - R Programming
- - Google Earth Engine 
+ 
+ - Google Earth Engine
+  
  - ArcGIS Pro
 
 
