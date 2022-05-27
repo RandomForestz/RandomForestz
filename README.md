@@ -14,7 +14,7 @@ You can also find me on [Twitter][1] or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
 
-I call it my profession but I really just like to play with data to find out new things about nature. I have a few tools I like to use when I "work".
+I call it my profession... but I really just like to play with data to learn new things about nature. I have a few tools I like to use when I "work".
  
 
  - R Programming
