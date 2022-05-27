@@ -25,7 +25,7 @@ I call it my profession... but I really just like to play with data to learn new
 
 ## Take a Look Around
 
-I do research, teach, and learn. When I do or find something worthwhile, I want everyone to have access to my data, code, and methodology! You can find my projects along with their respective data/code in my repositories.
+I do research, teach, and learn. When I do or find something worthwhile, I want everyone to have access to my data, code, and methodology! When it comes to knowledge, sharing is caring. You can find my projects along with their respective data/code in my repositories.
 
 Check out some of my projects below!
 
