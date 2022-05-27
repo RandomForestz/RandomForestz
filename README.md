@@ -13,6 +13,9 @@
 You can also find me on [Twitter][1] or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
+
+Playing with data is fun. I use a few tools to do so!
+
 <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">  
 
  - R Programming
