@@ -23,7 +23,7 @@ You can also find me on [Twitter][1] or on [LinkedIn][3].
 
 ## Take a Look Around
 
-Below are some of my most popular repositories.
+Check out some of my projects below!
 
   
 
