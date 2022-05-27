@@ -10,6 +10,8 @@
 
 - I'm really interested in using spatial and statistical tools to understand how plants and plant communities respond to disturbance and what we're doing to conserve and protect forests in a changing world. 
 
+- I'm currently working to understand the effects of climate variability on forest dynamics by leveraging long-term monitoring and tree-ring data.
+
 You can also find me on [Twitter][1] or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools | <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Rlogo.png" width="20px"> <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="20px"> <img src="https://github.com/RandomForestz/RandomForestz/blob/main/arcgispro.png" width="20px">
