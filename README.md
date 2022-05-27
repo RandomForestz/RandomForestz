@@ -19,9 +19,13 @@ I call it my profession... but I really just like to play with data to learn new
 
  - R Programming
  
- - Google Earth Engine <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">  
+ - Google Earth Engine 
   
  - ArcGIS Pro
+
+<img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">  
+<img src="https://github.com/RandomForestz/RandomForestz/blob/main/Rlogo.png" width="30px">  
+<img src="https://github.com/RandomForestz/RandomForestz/blob/main/arcgispro.png" width="30px">  
 
 ## Take a Look Around
 
