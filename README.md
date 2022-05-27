@@ -14,17 +14,18 @@ You can also find me on [Twitter][1] or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
 
-Playing with data is fun. I use a few tools to do so!
-
-<img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">  
+I call it my profession but I really just like to play with data to find out new things about nature. I have a few tools I like to use when I "work".
+ 
 
  - R Programming
  
- - Google Earth Engine
+ - Google Earth Engine <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="30px">  
   
  - ArcGIS Pro
 
 ## Take a Look Around
+
+I do research, teach, and learn. When I do or find something worthwhile, I want everyone to have access to my data, code, and methodology! You can find my projects along with their respective data/code in my repositories.
 
 Check out some of my projects below!
 
