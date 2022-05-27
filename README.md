@@ -2,9 +2,9 @@
 
 # Hello Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/d67becae2da0f810f63ec8309a5f3f3f.gif" width="50px">
 
-- My name is Josh Carrell and I'm a Forest Landscape Ecologist. 
-- I'm a PhD student at Colorado State University studying Forest Science. 
-- I'm really interested in using spatial and statistical tools to understand how plants and plant communities respond to disturbance. 
+- My name is Josh Carrell and I'm a PhD student at Colorado State University studying Forest Science. 
+- I like to call myself a forest landscape ecologist as I'm interested in processes, dynamics, and function of forests at a landscape scale (think entire forests to entire regions - like the Rockies). 
+- I'm really interested in using spatial and statistical tools to understand how plants and plant communities respond to disturbance and what we're doing to conserve and protect forests in a changing world. 
 
 You can also find me on [Twitter][1] or on [LinkedIn][3].
 
