@@ -23,7 +23,11 @@ I call it my profession... but I really just like to play with data to learn new
  
  - Google Earth Engine 
   
- - ArcGIS Pro
+ - Python
+
+ - ArcGIS 
+
+ - Paper & Pen
 
 ## Take a Look Around
 
