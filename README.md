@@ -16,7 +16,7 @@ You can also find me on [Twitter][1] or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools | <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Rlogo.png" width="20px"> <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="20px"> <img src="https://github.com/RandomForestz/RandomForestz/blob/main/arcgispro.png" width="20px">
 
-I call it my profession... but I really just like to play with data to learn new things about nature. I have a few tools I like to use when I "work".
+I really just like to play with data to learn new things about nature. I have a few tools I like to use when I "work".
  
 
  - R Programming
@@ -25,13 +25,13 @@ I call it my profession... but I really just like to play with data to learn new
   
  - Python
 
- - ArcGIS 
+ - ArcGIS Pro
 
  - Paper & Pen
 
 ## Take a Look Around
 
-I do research, teach, and learn. When I do or find something worthwhile, I want everyone to have access to my data, code, and methodology! When it comes to knowledge, sharing is caring. You can find my projects along with their respective data/code in my repositories.
+I do research, teach, and learn. When I do or find something worthwhile, I want everyone to have access to my data, code, and methods. When it comes to knowledge, sharing is caring. You can find my projects along with their respective data/code in my repositories.
 
 Check out some of my projects below!
 
