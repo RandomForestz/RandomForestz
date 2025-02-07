@@ -2,17 +2,15 @@
 
 # Hello, Friends! <img src="https://github.com/RandomForestz/RandomForestz/blob/main/d67becae2da0f810f63ec8309a5f3f3f.gif" width="50px">
 
-- My name is Josh and I'm a PhD student at Colorado State University studying Forest Sciences. 
+- My name is Josh and I'm a PhD Candidate at Colorado State University studying Forest Sciences. 
 
-
-- I like to call myself a forest landscape ecologist as I'm interested in the processes, dynamics, and functions of forest plants at a landscape scale (think entire forests to entire regions - like the Rockies). 
-
-
-- I'm really interested in using spatial and statistical tools to understand how plants and plant communities respond to disturbance and what we're doing to conserve and protect forests in a changing world. 
+- I'm really interested in using spatial and statistical tools to understand how the distribution and function of organisms and communities across topographic and climatic gradients.
 
 - I'm currently working to understand the effects of climate variability on forest dynamics by leveraging long-term monitoring and tree-ring data.
 
-You can also find me on [Twitter][1] or on [LinkedIn][3].
+- I'm also working on understanding why we choose certain algorithms in species distribution modeling and how those selections influence conservation outcomes.
+
+You can also find me on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools | <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Rlogo.png" width="20px"> <img src="https://github.com/RandomForestz/RandomForestz/blob/main/Curso-corto-de-Google-Earth-Engine-1.png" width="20px"> <img src="https://github.com/RandomForestz/RandomForestz/blob/main/arcgispro.png" width="20px">
 
