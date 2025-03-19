@@ -1,7 +1,7 @@
 # Hi, I'm Josh. 
 I'm an Ecologist, Geospatial Professional, and Data Analyst.
 
-I
+Check out the table below to see some of my work!
 
 | Topic        | Summary         | Language  | Link |
 | ------------- |:-------------:| -----:|-------|
