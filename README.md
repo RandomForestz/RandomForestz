@@ -1,7 +1,7 @@
 # Hi, I'm Josh. 
 
 
-| Tables        | Are           | Cool  |
+| Topic        | Summary         | Link  |
 | ------------- |:-------------:| -----:|
 | col 3 is      |               | $1600 |
 | col 2 is      | centered      |   $12 |
