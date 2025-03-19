@@ -1,13 +1,13 @@
 # Hi, I'm Josh. 
 I'm an Ecologist, Geospatial Professional, and Data Analyst.
 
-Check out the table below to see some of my work!
+## Below is a portfolio of some of my technical skills
 
-| Topic        | Summary         | Language  | Link |
-| ------------- |:-------------:| -----:|-------|
-| Modeling      |               | R |        |
-| Modeling      | centered      |   R |        |    
-| Modeling | are neat      |  JavaScript |        |
-| Spatial Ecology      | right-aligned | R |        |
-| Spatial Ecology      | centered      |  R |        |
-| Spatial Ecology | are neat      |    R |         |
+| Topic                  | Summary                                                     | Language    | Link    |
+| -------------          |:-------------:                                              | -----:      |-------  |
+| Modeling               |                                                             | R           |         |
+| Modeling               | centered                                                    |   R         |         |    
+| Modeling               | are neat                                                    |  JavaScript |         |
+| Spatial Ecology        | Species Distribution Modeling with Random Forest            | R           |         |
+| Spatial Ecology        | Specie                                                    |  R          |         |
+| Spatial Ecology        | are neat                                                    |    R        |         |
