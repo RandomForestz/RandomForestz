@@ -11,3 +11,6 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Spatial Ecology        | Species Distribution Modeling with Random Forest            | R           |         |
 | Spatial Ecology        | Specie                                                    |  R          |         |
 | Spatial Ecology        | are neat                                                    |    R        |         |
+| Publication              |                                                          |              |          |
+| Publication             |                                                            |              |          |
+| Article                  |                                                            |            |            |
