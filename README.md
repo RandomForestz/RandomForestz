@@ -17,3 +17,4 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Map                      | 1st Place Map Submission (GIS Colorado 2024 Contest)       | [Southern Rockies Forest Disturbance](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/southernrockiesmap.pdf)  |
 | Tutorial               | Instructor of NR6950, Geospatial Analysis in Natural Resources at Utah State | [Normalized Burn Ratio in R](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Burn-ratio.pdf)
 | Tutorial               | Instructor of NR6950, Geospatial Analysis in Natural Resources at Utah State | [Point-pattern Analysis in R](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Point_Pattern_Analysis.pdf)
+| Tutorial                | Instructor of NR6950, Geospatial Analysis in Natural Resources at Utah State | [Species Distribution Modeling with GLMs in R](https://rpubs.com/GeospatialEcologist/SDM)
