@@ -6,12 +6,12 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Topic                  | Summary                                                     | Link |
 | -------------          |:-------------:                                              |------|
 | Modeling               | A Generalized Linear Model to explore plant distribution    | GLM      | 
-| Modeling               | Mixed Effects Modeling of topographic controls on tree growth   | Mixed Effects Modeling   | 
-| Modeling               | Random Forest Modeling: Predicting Habitat Selection of Moose in AK | Random Forest  |
-| Spatial Ecology        | XGBOOST vs. Random Forest: What do they tell us?            | XGBOOST vs Random Forest  |
-| Spatial Ecology        | Movement Analysis and Habitat Selection                | Spatial Ecology       |
-| Spatial Ecology        | Connectivity Modeling                                    | Connectivity      |
-| Remote Sensing         | Image Classification with Random Forest                  | Image Classification |
+| Modeling               | Mixed Effects Modeling of topographic controls on tree growth   | Under Construction   | 
+| Modeling               | Random Forest Modeling: Predicting Habitat Selection of Moose in AK | Under Construction  |
+| Modeling        | XGBOOST vs. Random Forest: What do they tell us?            | Under Construction  |
+| Modeling        | Movement Analysis and Habitat Selection                | Under Construction       |
+| Modeling       | Connectivity Modeling                                    | Under Construction      |
+| Remote Sensing         | Image Classification with Random Forest                  | Under Construction |
 | Publication              | Species distribution modeling and Conservation Planning  | [Balancing Species Conservation and Extractive Industries](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/land-11-02012-v2-1.pdf)        |
 | Publication             |  Modeling Climate Change Impacts on Tree Habitat  | [Madrean Pine-Oak Forests & Climate](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/fevo-11-1086062-1.pdf)  |
 | Article                 | "Conservation Corner" article of Aquilegia Magezine        | [Rare Plant Conservation vs. Extractive Industries](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Aquilegia_2023.pdf) |
