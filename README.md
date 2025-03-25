@@ -18,3 +18,4 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Tutorial               | Instructor of NR6950, Geospatial Analysis in Natural Resources at Utah State | [Normalized Burn Ratio in R](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Burn-ratio.pdf)
 | Tutorial               | Instructor of NR6950, Geospatial Analysis in Natural Resources at Utah State | [Point-pattern Analysis in R](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Point_Pattern_Analysis.pdf)
 | Tutorial                | Instructor of NR6950, Geospatial Analysis in Natural Resources at Utah State | [Species Distribution Modeling with GLMs in R](https://rpubs.com/GeospatialEcologist/SDM)
+| Tutorial                 | An Introduction to Bayes Theorem in R from ESS 575 @ CSU | [Bayes Theorem Lab](https://rpubs.com/GeospatialEcologist/Bayes_draft)
