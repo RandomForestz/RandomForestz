@@ -13,4 +13,4 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Spatial Ecology        | are neat                                                    |        |
 | Publication              |                                                           |         |
 | Publication             |                                                            |      |
-| Article                 | "Conservation Corner" article of Aquilegia Magezine        | [Rare Plant Conservation vs. Extractive Industries] (https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Aquilegia_2023.pdf) |
+| Article                 | "Conservation Corner" article of Aquilegia Magezine        | [Rare Plant Conservation vs. Extractive Industries](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Aquilegia_2023.pdf) |
