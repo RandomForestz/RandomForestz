@@ -18,4 +18,4 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Tutorial               | An introduction to mapping burn severity in R | [Normalized Burn Ratio in R](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Burn-ratio.pdf)
 | Tutorial               | An introduction to kernal density and understanding patterns from point data in R | [Point-pattern Analysis in R](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Point_Pattern_Analysis.pdf)
 | Tutorial                | An introduction to modeling habitat suitability in R | [Species Distribution Modeling with GLMs in R](https://rpubs.com/GeospatialEcologist/SDM)
-| Tutorial | An introduction to using terra and sf for raster and vector analysis in R | [Raster Analysis with terra](https://rpubs.com/GeospatialEcologist/SpatialRaster) [Vector Analysis with sf](https://rpubs.com/GeospatialEcologist/SpatialVector)
+| Tutorial | An introduction to raster and vector analysis in R | [Raster Analysis with terra](https://rpubs.com/GeospatialEcologist/SpatialRaster) [Vector Analysis with sf](https://rpubs.com/GeospatialEcologist/SpatialVector)
