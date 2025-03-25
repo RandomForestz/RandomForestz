@@ -13,4 +13,4 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Spatial Ecology        | are neat                                                    |    R        |         |
 | Publication              |                                                          |              |          |
 | Publication             |                                                            |              |          |
-| Article                  |                                                            |            |            |
+| Article                                                                                                        |
