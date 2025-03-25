@@ -11,6 +11,6 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Spatial Ecology        | Species Distribution Modeling with Random Forest            |        |
 | Spatial Ecology        | Specie                                                      |        |
 | Spatial Ecology        | are neat                                                    |        |
-| Publication              |                                                           |         |
+| Publication              | Species distribution modeling and Systematic Conservation Planning  | [Balancing Species Conservation and Extractive Industries](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/land-11-02012-v2-1.pdf)        |
 | Publication             |                                                            |      |
 | Article                 | "Conservation Corner" article of Aquilegia Magezine        | [Rare Plant Conservation vs. Extractive Industries](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Aquilegia_2023.pdf) |
