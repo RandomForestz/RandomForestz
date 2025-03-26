@@ -5,7 +5,7 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 
 | Topic                  | Summary                                                     | Link |
 | -------------          |:-------------:                                              |------|
-| Modeling               | Comparing GLMs' and GAMs' Preditive Performance    | [Modeling soil influence plant distribution with GLMs & GAMs](https://rpubs.com/GeospatialEcologist/GLMGAM)      | 
+| Modeling               | Comparing GLMs' and GAMs' Preditive Performance    | [Modeling soil drivers of plant distribution](https://rpubs.com/GeospatialEcologist/GLMGAM)      | 
 | Modeling               | Mixed Effects Modeling of topographic controls on tree growth   | Under Construction   | 
 | Modeling               | Random Forest Modeling: Predicting Habitat Selection of Moose in AK | Under Construction  |
 | Modeling        | XGBOOST vs. Random Forest: What do they tell us?            | Under Construction  |
