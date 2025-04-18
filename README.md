@@ -1,7 +1,7 @@
 # Hi, I'm Josh. 
 I'm an Ecologist, Geospatial Professional, and Data Analyst.
 
-## Below is a portfolio of some of my technical skills
+## Below is a portfolio of some of my skills/tutorials/maps (under construction with more to come!)
 
 | Topic                  | Summary                                                     | Link |
 | -------------          |:-------------:                                              |------|
