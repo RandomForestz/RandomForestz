@@ -1,7 +1,7 @@
 # Hi, I'm Josh. 
 I'm an Ecologist, Geospatial Professional, and Data Analyst.
 
-## Below is a portfolio of some of my skills/tutorials/maps (under construction with more to come!)
+## Below you'll find *some* of my publications, maps, tutorials, and modeling. 
 
 | Topic                  | Summary                                                     | Link |
 | -------------          |:-------------:                                              |------|
@@ -15,4 +15,5 @@ I'm an Ecologist, Geospatial Professional, and Data Analyst.
 | Tutorial               | An introduction to kernal density in R | [Point-pattern Analysis](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Point_Pattern_Analysis.pdf)
 | Tutorial                | An introduction to modeling habitat suitability in R | [Species Distribution Modeling with GLMs](https://rpubs.com/GeospatialEcologist/SDM)
 | Tutorial | An introduction to raster and vector analysis in R | [Raster Analysis](https://rpubs.com/GeospatialEcologist/SpatialRaster) [Vector Analysis](https://rpubs.com/GeospatialEcologist/SpatialVector)
+
 
