@@ -4,6 +4,7 @@
 
 | Topic                  | Summary                                                     | Link |
 | -------------          |:-------------:                                              |------|
+| Software Development | slashR: An R package | [Check out my R package that slashes out the frustration of copying windows pathways into R](https://github.com/RandomForestz/slashR) |
 | Software Development | Niche Similarity Geoprocessing Toolkit | [Check out my ArcGIS geoprocessing tool I built using Python](https://github.com/RandomForestz/NicheToolkit) |
 | Modeling               | Examining Camera Trap influence on Predation    | [Camera Monitoring & Predation Risk for Nesting Birds](https://rpubs.com/GeospatialEcologist/CameraMonitoring)      | 
 | Modeling               | Comparing GLMs' and GAMs' Preditive Performance    | [Modeling soil drivers of plant distribution](https://rpubs.com/GeospatialEcologist/GLMGAM)      | 
@@ -17,6 +18,7 @@
 | Tutorial               | An introduction to kernal density in R | [Point-pattern Analysis](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Point_Pattern_Analysis.pdf)
 | Tutorial                | An introduction to modeling habitat suitability in R | [Species Distribution Modeling with GLMs](https://rpubs.com/GeospatialEcologist/SDM)
 | Tutorial | An introduction to raster and vector analysis in R | [Raster Analysis](https://rpubs.com/GeospatialEcologist/SpatialRaster) [Vector Analysis](https://rpubs.com/GeospatialEcologist/SpatialVector)
+
 
 
 
