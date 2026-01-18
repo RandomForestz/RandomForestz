@@ -8,7 +8,7 @@
 | Software Development | Niche Similarity Geoprocessing Toolkit | [Check out my ArcGIS geoprocessing tool I built using Python](https://github.com/RandomForestz/NicheToolkit) |
 | Modeling               | Examining Camera Trap influence on Predation    | [Camera Monitoring & Predation Risk for Nesting Birds](https://rpubs.com/GeospatialEcologist/CameraMonitoring)      | 
 | Modeling               | Comparing GLMs' and GAMs' Preditive Performance    | [Modeling soil drivers of plant distribution](https://rpubs.com/GeospatialEcologist/GLMGAM)      | 
-| Modeling (Fun)        | Visualizing Mixed Effect Models | [Sometimes a GIF is what you need see hierarchical modeling](https://github.com/RandomForestz/Geospatial-Analysis-for-Natural-Resources/blob/main/mixed%20effects%20models.gif) |
+| Modeling (Fun)        | Visualizing Mixed Effect Models | [Sometimes a GIF is what you need to see hierarchical modeling](https://github.com/RandomForestz/Geospatial-Analysis-for-Natural-Resources/blob/main/mixed%20effects%20models.gif) |
 | Modeling (Fun)         | Visualizing Linear Model Residuals | [Diagnosing residuals requires a GIF](https://github.com/RandomForestz/Geospatial-Analysis-for-Natural-Resources/blob/main/Diagnosingresiduals-ezgif.com-speed%20(2).gif) |
 | Publication              | Species distribution modeling and Conservation Planning  | [Balancing Species Conservation and Extractive Industries](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/land-11-02012-v2-1.pdf)        |
 | Publication             |  Modeling Climate Change Impacts on Tree Habitat  | [Madrean Pine-Oak Forests & Climate](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/fevo-11-1086062-1.pdf)  |
@@ -18,6 +18,7 @@
 | Tutorial               | An introduction to kernal density in R | [Point-pattern Analysis](https://github.com/RandomForestz/Spatial-Ecology-Portfolio/blob/main/Point_Pattern_Analysis.pdf)
 | Tutorial                | An introduction to modeling habitat suitability in R | [Species Distribution Modeling with GLMs](https://rpubs.com/GeospatialEcologist/SDM)
 | Tutorial | An introduction to raster and vector analysis in R | [Raster Analysis](https://rpubs.com/GeospatialEcologist/SpatialRaster) [Vector Analysis](https://rpubs.com/GeospatialEcologist/SpatialVector)
+
 
 
 
